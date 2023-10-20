@@ -5,6 +5,9 @@ git clone https://github.com/proton-penguin/install-android-studio.git
 cd install-android-studio
 sudo sh app.sh
 ```
+
+![image](https://github.com/proton-penguin/install-android-studio/assets/142492829/0785d665-7d3b-41fe-be21-0e5bac407ed4)
+
 ![image](https://github.com/proton-penguin/install-android-studio/assets/142492829/82d0e369-1742-423e-81a6-93a405312e13)
 
 ## This script will 
