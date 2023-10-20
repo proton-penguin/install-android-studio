@@ -6,9 +6,10 @@ cd install-android-studio
 sudo sh app.sh
 ```
 
-![image](https://github.com/proton-penguin/install-android-studio/assets/142492829/0785d665-7d3b-41fe-be21-0e5bac407ed4)
+![image](https://github.com/proton-penguin/install-android-studio/assets/142492829/af0c5365-215e-430c-8c8e-eca61a604dea)
 
-![image](https://github.com/proton-penguin/install-android-studio/assets/142492829/82d0e369-1742-423e-81a6-93a405312e13)
+
+![image](https://github.com/proton-penguin/install-android-studio/assets/142492829/c3b4fd17-e9bf-4c11-98e3-9d3215883daa)
 
 ## This script will 
 - [x] Reinstall Android Studio
